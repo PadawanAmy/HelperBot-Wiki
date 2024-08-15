@@ -1,0 +1,11 @@
+Bot:
+  Token: "YOUR_TOKEN_HERE"
+  Prefix: "!"
+  Status:
+    Activity: watching
+    Text: over your server
+Ignore:
+  Channels: []
+  Categories: []
+Placeholders:
+  DateFormat: "%d/%m/%y"
