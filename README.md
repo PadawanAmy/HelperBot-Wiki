@@ -25,8 +25,6 @@ HelperBot uses the Disnake library for Python.
 By default there are 3 example triggers, you can test the bot works by saying `helper bot test` in a text channel
 
 # Updating
-To update the bot, simply backup your Triggers.yml file and Config.yml file and download the latest version from [Releases](https://github.com/PadawanAmy/HelperBot/releases).
+To update the bot, simply backup your Triggers.yml file and Config.yml file and download the latest version.
 Any additions to the Config.yml will be stated in the release notes, you can either add them manually, or use the new default Config.yml and add your old values in.
 
-# Plans
-- Custom Commands - Allows users to set up custom commands in a CustomCommands.yml file
